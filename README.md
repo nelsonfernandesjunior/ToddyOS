@@ -1,6 +1,6 @@
 Toddy OS
 
-É uma remasterização do Ubuntu 18.04, não uma nova distribuição. Ele é direcionado para automação de testes de software em Ruby, Cucumber e Capybara.
+É uma remasterização baseada no Ubuntu 18.04 LTS 64 bits, kernel 4.18.0, Gnome 3.28.2, não uma nova distribuição. Ele é direcionado para automação de testes de software em Ruby, Cucumber e Capybara.
 Em termos de aplicações, esta remasterização vem com várias ferramentas instaladas e prontas para o trabalho de quem atua na área de testes.
 
 "Toddy" é o nome do meu cachorro que é companheiro fiel para todas as horas, sempre ao meu lado. Essas são características que um OS precisa ter. Precisamos confiar em nossa ferramenta de trabalho.
