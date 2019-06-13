@@ -10,10 +10,13 @@ Espero que o Toddy possa te ajudar como me ajudou e ainda me ajuda!
 
 
 O que foi instalado:
+- Capybara
 - Chromedriver [/usr/bin]
 - Cisco AnyConnect 4.6 [acesso a VPN]
+- Cucumber
 - FlameShot 0.5.1 [Screenshot]
 - GIT
+- Google Chrome
 - LibreOffice 6.0.7.3 [Suite de escritório]
 - NodeJS 8.10 [Interpretador de JS]
 - Postman [Teste de API]
