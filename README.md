@@ -8,32 +8,41 @@ Esse foi o motivo do nome.
 
 Espero que o Toddy possa te ajudar como me ajudou e ainda me ajuda!
 
+O que foi removido:
+- Amazon
+- Gnome Mahjongg
+- Gnome Sudoku
+- Minas do Gnome
+- Paciência do IBus
 
 O que foi instalado:
-- Capybara
 - Chromedriver [/usr/bin]
 - Cisco AnyConnect 4.6 [acesso a VPN]
-- Cucumber
 - FlameShot 0.5.1 [Screenshot]
-- GIT
-- Google Chrome
+- GIT 2.71.1
+- Gnome Tweaks 3.28.1
+- Google Chrome 75.0
 - LibreOffice 6.0.7.3 [Suite de escritório]
 - NodeJS 8.10 [Interpretador de JS]
-- Postman [Teste de API]
+- Postman 6.7.1 [Teste de API]
 - Rbenv 1.1.2 [Gerenciador de versões para  Ruby]
-- Ruby versões: 2.4.3 / 2.5.1 / 2.6.3
-- Slack 3.4.0 [Comunicação]
-- SoapUI [Teste de API]
+- Ruby versões: 2.5.1 / 2.6.3
+- Slack 3.4.2 [Comunicação]
+- SoapUI 5.5.0 [Teste de API]
 - Spotify [Porque ninguém é de ferro, kkk]
 - SystemBack 3 [Backup e ponto de restauração]
 - Sublime 3.2.1 [Editor de texto / código]
-- Visual Studio Code 1.33.1 [IDE] + extensions para Ruby
+- Visual Studio Code 1.35.1 [IDE] + extensions para Ruby
 - Zoom 2.8 [video conferência]
 
 Terminal:
 - Configurado para exibir a release da branch
 - Configurado a formatação do Git entre Windows e Linux
 
+ChromeDriver:
+- Caso na automação surgir o erro que o chromedriver não foi encontrado, digite os seguintes comandos no terminal:
+  sudo chown root:root /usr/bin/chromedriver
+  sudo chmod +x /usr/bin/chromedriver
 
 ToddyOS 1.0.1.iso [2.8GB] => DOWNLOAD LINK:
 
