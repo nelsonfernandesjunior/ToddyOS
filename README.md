@@ -42,6 +42,7 @@ Terminal:
 ChromeDriver:
 - Caso na automação surgir o erro que o chromedriver não foi encontrado, digite os seguintes comandos no terminal:
   sudo chown root:root /usr/bin/chromedriver
+  
   sudo chmod +x /usr/bin/chromedriver
 
 ToddyOS 1.0.1.iso [2.8GB] => DOWNLOAD LINK:
