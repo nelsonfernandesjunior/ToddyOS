@@ -45,6 +45,6 @@ ChromeDriver:
   
   sudo chmod +x /usr/bin/chromedriver
 
-ToddyOS 1.0.1.iso [2.8GB] => DOWNLOAD LINK:
+ToddyOS 1.20.iso [2.18GB] => DOWNLOAD LINK:
 
-https://mega.nz/#!U5tTxQxA!hR65fkQY63YUw1dCtHvbMpDxFL5-j5MjuVz7CyY7TlM
+https://mega.nz/#!oktSySCK!9gOAauHh8pS0lkrPDDtP1rEMHOIAMhpX3uRiv5ufeYk
