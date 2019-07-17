@@ -15,23 +15,23 @@ What has been removed:
 
 What has been installed:
 - Chromedriver [/usr/bin]
-- Cisco AnyConnect 4.6 [acesso a VPN]
+- Cisco AnyConnect 4.6 [VPN access]
 - FlameShot 0.5.1 [Screenshot]
 - GIT 2.71.1
 - Gnome Tweaks 3.28.1
 - Google Chrome 75.0
-- LibreOffice 6.0.7.3 [Suite de escritório]
-- NodeJS 8.10 [Interpretador de JS]
-- Postman 6.7.1 [Teste de API]
-- Rbenv 1.1.2 [Gerenciador de versões para  Ruby]
+- LibreOffice 6.0.7.3 [Free Office Suite]
+- NodeJS 8.10 [JavaScript runtime environment]
+- Postman 6.7.1 [API testing]
+- Rbenv 1.1.2 [Application-specific versions of Ruby]
 - Ruby versões: 2.5.1 / 2.6.3
-- Slack 3.4.2 [Comunicação]
-- SoapUI 5.5.0 [Teste de API]
-- Spotify [Porque ninguém é de ferro, kkk]
-- SystemBack 3 [Backup e ponto de restauração]
-- Sublime 3.2.1 [Editor de texto / código]
+- Slack 3.4.2
+- SoapUI 5.5.0 [API Testing tool]
+- Spotify [Because no one is iron, kkk]
+- SystemBack 3 [System backup and restore application]
+- Sublime 3.2.1 [Cross-platform source code editor]
 - Visual Studio Code 1.35.1 [IDE] + extensions para Ruby
-- Zoom 2.8 [video conferência]
+- Zoom 2.8 [video communication]
 
 Terminal:
 - Configured to display the branch release
