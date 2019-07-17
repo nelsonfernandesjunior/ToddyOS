@@ -38,11 +38,10 @@ Terminal:
 - Configured the formatting of Git between Windows and Linux
 
 ChromeDriver:
-- In case a error message shows up at the automation saying that chromedriver has not been found, type the following commands at the terminal
-
-sudo chown root:root /usr/bin/chromedriver
+- In case a error message shows up at the automation saying that chromedriver has not been found, type the following commands at the terminal:
+  sudo chown root:root /usr/bin/chromedriver
   
-sudo chmod +x /usr/bin/chromedriver
+  sudo chmod +x /usr/bin/chromedriver
 
 ========================================================================================
 
