@@ -27,7 +27,7 @@ What has been installed:
 - Ruby versões: 2.5.1 / 2.6.3
 - Slack 3.4.2
 - SoapUI 5.5.0 [API Testing tool]
-- Spotify [Because no one is iron, kkk]
+- Spotify [Because no one is ironman, kkk]
 - SystemBack 3 [System backup and restore application]
 - Sublime 3.2.1 [Cross-platform source code editor]
 - Visual Studio Code 1.35.1 [IDE] + extensions para Ruby
